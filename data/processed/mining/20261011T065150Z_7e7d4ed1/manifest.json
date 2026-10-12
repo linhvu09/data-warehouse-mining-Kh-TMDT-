@@ -1,0 +1,13 @@
+{
+  "run_id": "20261011T065150Z_7e7d4ed1",
+  "datasets": {
+    "customer_rfm": {
+      "object": "gold/mining/runs/20261011T065150Z_7e7d4ed1/customer_rfm.parquet",
+      "rows": 93358
+    },
+    "review_training": {
+      "object": "gold/mining/runs/20261011T065150Z_7e7d4ed1/review_training.parquet",
+      "rows": 95803
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "run_id": "20261010T122457Z_83d27df6",
+  "bucket": "olist",
+  "tables": {
+    "category_translation": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/category_translation.parquet",
+      "source_rows": 71,
+      "silver_rows": 71,
+      "duplicates_removed": 0
+    },
+    "customers": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/customers.parquet",
+      "source_rows": 99441,
+      "silver_rows": 99441,
+      "duplicates_removed": 0
+    },
+    "orders": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/orders.parquet",
+      "source_rows": 99441,
+      "silver_rows": 99441,
+      "duplicates_removed": 0
+    },
+    "order_items": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/order_items.parquet",
+      "source_rows": 112650,
+      "silver_rows": 112650,
+      "duplicates_removed": 0
+    },
+    "products": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/products.parquet",
+      "source_rows": 32951,
+      "silver_rows": 32951,
+      "duplicates_removed": 0
+    },
+    "sellers": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/sellers.parquet",
+      "source_rows": 3095,
+      "silver_rows": 3095,
+      "duplicates_removed": 0
+    },
+    "order_payments": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/order_payments.parquet",
+      "source_rows": 103886,
+      "silver_rows": 103886,
+      "duplicates_removed": 0
+    },
+    "order_reviews": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/order_reviews.parquet",
+      "source_rows": 99224,
+      "silver_rows": 99224,
+      "duplicates_removed": 0
+    },
+    "geolocation": {
+      "object": "silver/runs/20261010T122457Z_83d27df6/geolocation.parquet",
+      "source_rows": 1000163,
+      "silver_rows": 738332,
+      "duplicates_removed": 261831
+    }
+  }
+}

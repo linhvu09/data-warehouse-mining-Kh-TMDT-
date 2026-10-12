@@ -1,0 +1,21 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# VS Code
+.vscode/
+
+# Local files
+*.log
+.DS_Store
+
+# Power BI temporary files
+*.pbitmp
