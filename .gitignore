@@ -19,3 +19,8 @@ __pycache__/
 
 # Power BI temporary files
 *.pbitmp
+
+# Local generated data and models
+data/processed/
+models/
+backups/

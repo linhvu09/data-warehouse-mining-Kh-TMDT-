@@ -15,7 +15,6 @@ EXPECTED_FILES = [
 
 
 def main():
-    # Kiem tra du 9 file truoc khi upload.
     problems = []
 
     for filename in EXPECTED_FILES:
